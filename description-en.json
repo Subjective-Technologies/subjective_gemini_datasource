@@ -1,4 +1,5 @@
 {
+  "description": "On-demand Google Gemini connector with configurable model and generation parameters for prompt-based responses.",
   "domainCategory": "AI & Automation",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Gemini",
-      "text": "A Subjective data source for Gemini.",
+      "text": "On-demand Google Gemini connector with configurable model and generation parameters for prompt-based responses.",
       "image": {
         "src": "/subjective_gemini_datasource/icon.svg",
         "alt": "Gemini icon"
